@@ -1,2 +1,3 @@
+role, NetID, LastName, FirstName
 boss, jlivingston4, Livingston, Jordan
 employee, dcdykstra, Dykstra, Danah
